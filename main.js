@@ -15,7 +15,8 @@ requestAnimationFrame(function animationFrame() {
 
     head1.style.transform = "translateY(" + head1Y + "%)"
     tongue1.style.transform = "translateY(" + tongue1Y + "%)"
-    hands1.style.transform = "scaleX(" + hands1Y + ")"
+    hands1.style.transform = "scaleX(" + hands1Y + ") scaleY(" + hands1Y + ")"
+
 
     i = i + pi/6
 
