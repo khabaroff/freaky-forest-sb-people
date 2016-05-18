@@ -1,0 +1,9 @@
+#container1 {width:100%;height:100%;}
+
+.hero1 {width:50%; position: relative; }
+
+.item {position: absolute; border: 1px solid green;}
+
+.hands1 {width: 100%; margin-top: 50%; margin-left: -1%}
+.head1 {width: 60%; margin-left: 20%;}
+.tongue1 {width: 10%; margin-left: 45%; margin-top: 40%;}
