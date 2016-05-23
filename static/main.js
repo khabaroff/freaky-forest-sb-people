@@ -131,18 +131,18 @@ requestAnimationFrame(function animationFrame() {
   //  n0604.style.transform = "translateY(" + n0604anim + "px)"
 
 
-    var n0701anim = 10 * Math.sin(i/3)
-    var n0702anim = 10 * Math.sin(i/3)
+    var n0701anim = 25 * Math.sin(i/3)
+    var n0702anim = 5 * Math.sin(i/3)
     var n0703anim = 10 * Math.sin(i/3 + pi/6)
 
-    n0701.style.transform = "translateY(" + n0701anim + "px)"
+    ////n0701.style.transform = "translateY(" + n0701anim + "px)"
     n0702.style.transform = "translateY(" + n0702anim + "px)"
     n0703.style.transform = "translateY(" + n0703anim + "px)"
 
 
     var n0801anim = 10 * Math.sin(i/3)
     var n0802anim = 10 * Math.sin(i/3)
-    var n0803anim = 10 * Math.sin(i/3 + pi/6)
+    var n0803anim = -6+15 * Math.sin(i/3)
     var n0804anim = 10 * Math.sin(i/3)
     var n0805anim = 10 * Math.sin(i/3)
 
