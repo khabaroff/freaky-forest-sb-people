@@ -80,9 +80,9 @@ requestAnimationFrame(function animationFrame() {
     n0104.style.transform = "translateY(" + n0104anim + "px)"
 
     //var n0201anim = 2 * Math.sin(i/3)
-    var n0202anim = 10 * Math.sin(i/1.5)
-    var n0203anim = -3+15 * Math.sin(i/1.5)
-    var n0204anim = 10 * Math.sin(i/1.5)
+    var n0202anim = 5 * Math.sin(i/1 + pi/6)
+    var n0203anim = 10 + 3 * Math.sin(i/1 + pi/2)
+    var n0204anim = 5 * Math.sin(i/1 + pi/4)
 
     //n0201.style.transform = "translateY(" + n0201anim + "px)"
     n0202.style.transform = "translateY(" + n0202anim + "px)"
@@ -91,27 +91,31 @@ requestAnimationFrame(function animationFrame() {
 
 
 
-    var n0301anim = 6 * Math.sin(i/3)
+    var n0301anim = 10 * Math.sin(i/3 + pi/15)
     //var n0302anim = 10 * Math.sin(i/3)
-    var n0303anim = 1 * Math.sin(i*1.2)
-    var n0304anim = 4.5 * Math.sin(i/3)
+    var n0303anim = 10 * Math.sin(i/3)
+    var n0303animX = Math.sin(i*1.4)
+    var n0304anim = 10 * Math.sin(i/3)
 
     n0301.style.transform = "translateY(" + n0301anim + "px)"
     //n0302.style.transform = "translateY(" + n0302anim + "px)"
-    n0303.style.transform = "translateY(" + n0303anim + "px) translateX(" + n0303anim + "px)"
+    n0303.style.transform = "translateY(" + n0303anim + "px) translateX(" + n0303animX + "px)"
     n0304.style.transform = "translateY(" + n0304anim + "px)"
 
 
     //var n0401anim = 10 * Math.sin(i/3)
     var n0402anim = 10 * Math.sin(i/3)
-    var n0403anim = 10 * Math.sin(i/3)
+    var n0402animX = -5 * Math.sin(i/3.5)
+    var n0403anim = 10 * Math.sin(i/3 + pi/18)
+    var n0403animX = -5 * Math.sin(i/3.5 + pi/12)
     var n0404anim = 10 * Math.sin(i/3  + pi/6)
-    var n0404animscale = 1 + 0.1 * Math.sin(i/9  + pi/6)
+    var n0404animX = -5 * Math.sin(i/3.5)
+    var n0404animscale = 1 + 0.06 * Math.sin(i/12  + pi/3)
 
     //n0401.style.transform = "translateY(" + n0401anim + "px)"
-    n0402.style.transform = "translateY(" + n0402anim + "px)"
-    n0403.style.transform = "translateY(" + n0403anim + "px)"
-    n0404.style.transform = "translateY(" + n0404anim + "px) scale(" + n0404animscale + ")"
+    n0402.style.transform = "translateY(" + n0402anim + "px)translateX(" + n0402animX + "px)"
+    n0403.style.transform = "translateY(" + n0403anim + "px) translateX(" + n0403animX + "px)"
+    n0404.style.transform = "translateY(" + n0404anim + "px) scale(" + n0404animscale + ") translateX(" + n0404animX + "px)"
 
 
     var n0501anim = 10 * Math.sin(i/3)
