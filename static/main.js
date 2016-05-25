@@ -25,6 +25,8 @@ var n0404 = document.querySelector("#n0404");
 
 var n0501 = document.querySelector("#n0501");
 var n0502 = document.querySelector("#n0502");
+var n0503 = document.querySelector("#n0503");
+
 
 
 var n0601 = document.querySelector("#n0601");
@@ -72,7 +74,7 @@ requestAnimationFrame(function animationFrame() {
     var n0101anim = 10 * Math.sin(i/3)
     var n0102anim = 10 * Math.sin(i/3 + pi/18)
     //var n0103anim = 1 * Math.sin(i/3)
-    var n0104anim = -4 + 14 * Math.sin(i/3 + pi/15)
+    var n0104anim = 4 + 14 * Math.sin(i/3 + pi/15)
     var n0105anim = 10 * Math.sin(i/3)
 
     n0101.style.transform = "translateY(" + n0101anim + "px)"
@@ -83,7 +85,7 @@ requestAnimationFrame(function animationFrame() {
 
     //var n0201anim = 1 * Math.sin(i/2)
     var n0202anim = 5 * Math.sin(i/2 + pi/12)
-    var n0203anim = 9 + 4 * Math.sin(i/2 + pi/2)
+    var n0203anim = -1 + 4 * Math.sin(i/2 + pi/2)
     var n0204anim = 5 * Math.sin(i/2 + pi/6)
 
     //n0201.style.transform = "translateY(" + n0201anim + "px) translateX(" + n0201animX + "px)"
@@ -106,12 +108,12 @@ requestAnimationFrame(function animationFrame() {
 
 
     //var n0401anim = 1 * Math.sin(i/3)
-    var n0402anim = 10 * Math.sin(i/3)
-    var n0402animX = -5 * Math.sin(i/3.5)
-    var n0403anim = 10 * Math.sin(i/3 + pi/18)
-    var n0403animX = -5 * Math.sin(i/3.5 + pi/12)
-    var n0404anim = 10 * Math.sin(i/3  + pi/6)
-    var n0404animX = -5 * Math.sin(i/3.5)
+    var n0402anim = 5+ 5 * Math.sin(i/3)
+    var n0402animX = -2 * Math.sin(i/3.5)
+    var n0403anim = 5 * Math.sin(i/3 + pi/18)
+    var n0403animX = -2 * Math.sin(i/3.5 + pi/12)
+    var n0404anim = 5 * Math.sin(i/3  + pi/6)
+    var n0404animX = -2 * Math.sin(i/3.5)
     var n0404animscale = 1 + 0.06 * Math.sin(i/12  + pi/3)
 
     //n0401.style.transform = "translateY(" + n0401anim + "px)translateX(" + n0401animX + "px)"
@@ -120,23 +122,26 @@ requestAnimationFrame(function animationFrame() {
     n0404.style.transform = "translateY(" + n0404anim + "px) scale(" + n0404animscale + ") translateX(" + n0404animX + "px)"
 
 
-    var n0501anim = 10 * Math.sin(i/3)
+    //var n0501anim = 10 * Math.sin(i/3)
     var n0502anim = 10 * Math.sin(i/3 + pi/6)
+    var n0503anim = 10 * Math.sin(i/3 + pi/6)
+    var n0503animX = Math.sin(i*1.4)
 
-    n0501.style.transform = "translateY(" + n0501anim + "px)"
+    //n0501.style.transform = "translateY(" + n0501anim + "px)"
     n0502.style.transform = "translateY(" + n0502anim + "px)"
+    n0503.style.transform = "translateY(" + n0503anim + "px) translateX(" + n0303animX + "px)"
 
 
-    var n0601anim = 7 * Math.sin(i/3)
+    var n0601anim = 7 * Math.sin(i/3 + pi/12)
     //var n0602anim = 1 * Math.sin(i/3)
     //var n0602animX = -2 * Math.sin(i/24 + pi/12)
-    var n0603anim = 6 * Math.sin(i/3 + pi/18)
-    var n0604anim = 7 * Math.sin(i/3)
+    var n0603anim = 6 * Math.sin(i/3 + pi/6)
+    var n0604anim = 7 * Math.sin(i/3 + pi/18)
 
     n0601.style.transform = "translateY(" + n0601anim + "px)"
     //n0602.style.transform = "translateY(" + n0602anim + "px) translateX(" + n0602animX + "px)"
     n0603.style.transform = "translateY(" + n0603anim + "px)"
-    //n0604.style.transform = "translateY(" + n0604anim + "px)"
+    n0604.style.transform = "translateY(" + n0604anim + "px)"
 
 
     //var n0701anim = 1 * Math.sin(i/3)
@@ -152,9 +157,9 @@ requestAnimationFrame(function animationFrame() {
 
     //var n0801anim = 1 * Math.sin(i/3)
     var n0802anim = 5 + 10 * Math.sin(i/3)
-    var n0803anim = 15 + 10 * Math.sin(i/3 + pi/12)
+    var n0803anim = 5 + 10 * Math.sin(i/3 + pi/12)
     var n0804anim = 5 + 10 * Math.sin(i/3)
-    var n0805anim = 15 + 10 * Math.sin(i/3)
+    var n0805anim = 10 + 10 * Math.sin(i/3 + pi/24)
 
     //n0801.style.transform = "translateY(" + n0801anim + "px) translateX(" + n0801animX + "px)"
     n0802.style.transform = "translateY(" + n0802anim + "px)"
