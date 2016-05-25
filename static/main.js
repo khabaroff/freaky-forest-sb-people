@@ -88,7 +88,7 @@ requestAnimationFrame(function animationFrame() {
     var n0203anim = 9 + 4 * Math.sin(i/2 + pi/2)
     var n0204anim = 5 * Math.sin(i/2 + pi/6)
 
-    n0201.style.transform = "translateY(" + n0201anim + "px)translateX(" + n0201animX + "px)"
+    n0201.style.transform = "translateY(" + n0201anim + "px) translateX(" + n0201animX + "px)"
     n0202.style.transform = "translateY(" + n0202anim + "px)"
     n0203.style.transform = "translateY(" + n0203anim + "px)"
     n0204.style.transform = "translateY(" + n0204anim + "px)"

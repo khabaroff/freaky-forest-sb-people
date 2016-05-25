@@ -301,6 +301,31 @@
 		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#81CECE;" points="110.51,323.596 116.656,318.477 118.984,310.852 
 			125.269,304.467 133.148,302.711 140.333,306.028 145.557,314.038 137.316,314.809 132.081,319.459 127.906,328.414 
 			123.592,334.961 116.512,329.631 		"/>
+		<g>
+			<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="130.312,258.8 129.769,269.02 130.558,276.462 
+				135.714,284.761 143.177,285.824 147.745,284.025 157.597,289.415 167.091,289.11 171.677,287.324 175.783,291.954 
+				182.921,295.592 192.902,294.789 202.24,289.199 210.831,292.949 221.439,294.545 230.972,290.542 234.298,286.419 
+				242.308,286.77 248.642,283.184 251.757,274.754 251.669,266.439 250.583,259.566 237.62,261.956 225.806,264.439 
+				204.583,267.264 187.24,267.299 169.494,264.032 151.726,258.656 138.937,257.788 130.312,258.8 			"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M145.615,281.699c0,0,9.938,13.688,26.062,5.625"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M143.767,257.805c0,0-4.715,16.957,1.848,23.895"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M171.677,287.324c0,0,10.688,18.188,30.562,1.875"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M238.802,268.387c0,0,0.562,40.5-36.562,20.812"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M234.298,286.419c3.789,0.704,22.82,5.115,16.285-26.854"/>
+			
+				<path style="fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
+				M130.312,258.8c-0.387,5.635-3.822,29.649,12.865,27.024"/>
+		</g>
 		
 			<path style="fill:none;stroke:#000000;stroke-width:8.504;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.926;" d="
 			M163.627,176.632c2.625-7.312,26.625-18.75,37.875,2.438"/>
