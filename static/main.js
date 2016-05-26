@@ -1,3 +1,25 @@
+function green(){
+        document.body.style.backgroundColor="#48B37D"
+    }
+
+function yellow(){
+    document.body.style.backgroundColor="#F8D53E"
+}
+
+function violet1(){
+    document.body.style.backgroundColor="#504D58"
+}
+
+function blue(){
+    document.body.style.backgroundColor="#81CECE"
+}
+
+function violet2(){
+    document.body.style.backgroundColor="#68559D"
+}
+
+
+
 var n0101 = document.querySelector("#n0101");
 var n0102 = document.querySelector("#n0102");
 var n0103 = document.querySelector("#n0103");

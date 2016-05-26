@@ -7,3 +7,13 @@
 svg {padding: 50px;}
 
 g {transform-origin: 50% 50%;}
+
+
+.square {width: 10px; height: 10px; display: inline-block; border: 1px solid black;}
+
+
+.green {background-color: #48B37D;}
+.yellow {background-color: #F8D53E;}
+.violet1 {background-color: #504D58;}
+.blue {background-color: #81CECE;}
+.violet2 {background-color: #68559D;}
