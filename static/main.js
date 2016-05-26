@@ -303,12 +303,12 @@ requestAnimationFrame(function animationFrame() {
 
 //11Belka
     //var n1101anim = 10 * Math.sin(i/3)
-    var n1102anim = 5 * Math.sin(i/3)
+    var n1102anim = -6+ 5 * Math.sin(i/3)
     var n1102animX = 2 * Math.sin(i/24)
     var n1102animscale = 1 + 0.02 * Math.sin(i/24  + pi/3)
     var n1103anim = 8 * Math.sin(i/3 + pi/18)
     var n1103animscale = 1 + 0.02 * Math.sin(i/6  + pi/3)
-    var n1104anim = 8 * Math.sin(i/3 + pi/12)
+    var n1104anim =  8 * Math.sin(i/3 + pi/12)
     var n1104animscale = 1 + 0.02 * Math.sin(i/6  + pi/3)
 
     //n1101.style.transform = "translateY(" + n1101anim + "px)"
