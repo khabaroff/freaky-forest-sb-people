@@ -317,11 +317,11 @@ requestAnimationFrame(function animationFrame() {
 
 //13Tishi
     //var n1301anim = 7 * Math.sin(i/3 + pi/12)
-    var n1302animX = 8 * Math.sin(i/3 + pi/18)
+    var n1302animX = 7 * Math.sin(i/3 + pi/18)
     var n1303animX = 6 * Math.sin(i/3 + pi/6)
-    var n1303anim = -6+3 * Math.sin(i/3.5 + pi/6)
-    var n1304animX = 8 * Math.sin(i/3 + pi/18)
-    var n1305animX = 8.5 * Math.sin(i/3 + pi/24)
+    var n1303anim = -5+1 * Math.sin(i/3 + pi/18)
+    var n1304animX = 7 * Math.sin(i/3 + pi/18)
+    var n1305animX = 7 * Math.sin(i/3 + pi/24)
 
     //n1301.style.transform = "translateY(" + n1201anim + "px)"
     n1302.style.transform = "translateX(" + n1302animX + "px)"
