@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 336 533.333" style="enable-background:new 0 0 336 533.333;" xml:space="preserve">
 <g id="n3601">
@@ -35,12 +37,13 @@
 			<clipPath id="SVGID_2_">
 				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 			</clipPath>
-			<polygon style="clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#68569D;" points="172.273,375.756 
-				-4.112,375.756 -4.112,-38.82 152.538,17.702 168.418,57.675 			"/>
+			<path style="clip-path:url(#SVGID_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#4AB57E;" d="M56.539,231.853
+				c0,0,3.149-27.71,6.927-54.789c3.779-27.08,13.855-97.613,29.599-122.174S115.737,25.92,134,20.252s17.004-8.187,20.782,3.779
+				s20.152,44.083,20.152,44.083l-5.038,91.945l0.63,48.492l-64.866,6.298L56.539,231.853z"/>
 		</g>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#4AB57E;" d="M65.363,280.076c0,0-13.5-17.5-4.5-32.5c9-15,19-28,43.5-34
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#E186AE;" d="M65.363,280.076c0,0-13.5-17.5-4.5-32.5c9-15,19-28,43.5-34
 			s73,2.5,73,2.5l0.5,114.5c0,0-31.5-0.5-53.5-11.5S65.363,280.076,65.363,280.076z"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#4AB57E;" d="M214.363,326.576c9.5-1.5,49.5-1,62-35.5s19.5-44.5,6.5-60.5
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#68569D;" d="M214.363,326.576c9.5-1.5,49.5-1,62-35.5s19.5-44.5,6.5-60.5
 			s-25.5-26.5-58-20.5s-49.5,6.5-49.5,6.5l2.5,114L214.363,326.576z"/>
 		
 			<path style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:8.5039;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;" d="
@@ -209,12 +212,12 @@
 </g>
 <g id="n3602">
 	<g>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#4AB57E;" d="M132.099,415.487c-1.512-1.778,1.996,7.083,1.996,7.083
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#68569D;" d="M132.099,415.487c-1.512-1.778,1.996,7.083,1.996,7.083
 			l5.541,6.42l9.604,4.325l15.551,1.187l14.81,1.278l17.104-3.407l11.545-5.618l8.24-8.974l3.053-11.176l9.697,5.462l9.59,7.588
 			l9.672,9.83l7.918,9.704l7.922,11.253l7.781,12.622l5.15,9.248l3.326,6.362l-9.121,10.387l-12.508,11.08l-17.723,11.648
 			l-15.479,7.372l-20.555,6.505l-18.695,2.816l-21.367-0.653l-15.238-2.247l-19.793-5.4l-12.732-5.5l-12.297-7.38l-12.428-10.096
 			l-8.379-8.407l3.326-10.709l5.08-13.115l7.498-14.752l8.775-13.346l10.344-12.413L132.099,415.487L132.099,415.487z"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#68569D;" d="M154.974,328.799c0,0,20.932-15.077,39,2.25
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M154.974,328.799c0,0,20.932-15.077,39,2.25
 			c-0.424,4.209-0.781,8.521-0.781,8.521l-0.641,18.631l-0.131,10.495l0.207,6.897l1.199,12.036l2.195,9.091l3.285,6.339
 			l5.418,3.511l4.049-3.223l7.498,1.937l2.412,4.461l-2.195,8.035l-5.391,6.752l-7.992,5.221l-11.695,4.155l-17.615,1.993
 			l-11.988-1.628l-12.568-0.959l-12.375-7.535l-4.539-8.02l-0.213-5.328l7.977-6.067l7.621-4.895l6.889-5.296l1.406-11.008
@@ -250,7 +253,7 @@
 </g>
 <g id="n3603">
 	<g>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#E186AE;" d="M158.894,303.136l1.773-24.262l3.276-9.317l6.141-5.953
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#F9D740;" d="M158.894,303.136l1.773-24.262l3.276-9.317l6.141-5.953
 			l11.694-0.431l7.864,0.398l3.969,3.948c0,0,1.582,6.488,0.649,5.99c-0.934-0.498-4.918,3.325-4.918,3.325l0.976,6.792
 			l-0.841,17.108l-8.438,2.681l-9.827,5.163l-6.13-3.373L158.894,303.136L158.894,303.136z"/>
 		
